@@ -1,7 +1,7 @@
 body{
     text-align: center;
     background-color: aqua;
-    padding: 10px;
+    padding: 20px;
 }
 h1{
     color: red;
@@ -9,10 +9,11 @@ h1{
 .abc{
     background-color: black;
     color: white;
-    padding
+    padding:10px;
+    margin-left: auto;
 }
 .pqr{
-    background-color: lightpink;
-    padding: 10px;
+   background-color:lightpink;
+   padding: 10px;
 
 }
